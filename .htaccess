@@ -1,0 +1,10 @@
+
+RewriteEngine on
+
+RewriteRule ^admin admin.php
+
+RewriteRule ^login login.php
+
+RewriteRule ^preview preview.php
+
+RewriteRule ^logout logout.php
